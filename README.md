@@ -7,9 +7,10 @@ A graduate student in computer science and technology from Southeast University
 * I'm currently learning on **knowledge graph** 📊
 * My website here [BlueStragglers](https://www.bluestragglers.com) 📫
 
-At last, good good study, day day up!
+### 💬 My Motto:
+Labour is often the father of pleasure 💪
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueStragglers)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueStragglers)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BlueStragglers/BlueStragglers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
