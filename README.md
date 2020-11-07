@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, It's BlueStragglers!
+A graduate student in computer science and technology from Southeast University
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueStragglers)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BlueStragglers/BlueStragglers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
