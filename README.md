@@ -1,6 +1,14 @@
 ### 👋 Hi, It's BlueStragglers!
 A graduate student in computer science and technology from Southeast University
 
+### 😄 About Me:
+* I'm studying on **Computer Science** 🔭
+* I'm working for **SEU KGCODE LAB** 🌱
+* I'm currently learning on **knowledge graph** 📊
+* My website here [BlueStragglers](https://www.bluestragglers.com) 📫
+
+At last, good good study, day day up!
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueStragglers)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
